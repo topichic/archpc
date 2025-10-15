@@ -21,3 +21,7 @@ x  y  z  не y  не x  x или y  ( x или y) или z  (не y или z)
           1                                1
           1                                1
           1                                1
+
+№2 DZ
+по закону дистрибутивность дизъюнкции относительно конъюкции
+[dz archpc.xlsx](https://github.com/user-attachments/files/22922363/dz.archpc.xlsx)
