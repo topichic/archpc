@@ -13,7 +13,18 @@
 ### [№1](/sys/Lab1.md)
 ### [№2](/sys/Lab2.md)
 ### [№3](/sys/Lab3.md)
+### [№5](/sys/Lab5.md)
+### [№6](/sys/Lab6.md)
+### [№7](/sys/Lab7.md)
+### [№8](/sys/Lab8.md)
+### [№9](/sys/Lab9.md)
+### [№10](/sys/Lab10.md)
+### [№11](/sys/Lab11.md)
+### [№12](/sys/Lab12.md)
+### [№14](/sys/Lab14.md)
 ### [№15](/sys/Lab15.md)
+### [№16](/sys/Lab16.md)
+### [№19](/sys/Lab19.md)
 # Компьютерные сети
 ## Лабораторные работы
 ### [№1](/compset/README.md)
